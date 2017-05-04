@@ -8,8 +8,8 @@
 		<mkdir dir = "hello"/>
    </target>
    
-   <!--<target name="info" depends="create a folder">
+   <target name="info" depends="create a folder">
       <echo>Hello World - Welcome to Apache Ant!</echo>
-   </target>-->
+   </target>
    
 </project>
