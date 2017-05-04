@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<project name="Hello World Project" default="create a folder">
+   
+   
+   
+   <target name="create a folder">
+		<mkdir dir = "hello"/>
+   </target>
+   
+   <!--<target name="info" depends="create a folder">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>-->
+   
+</project>
